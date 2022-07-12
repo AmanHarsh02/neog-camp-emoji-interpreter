@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+li {
+  display: inline;
+  padding: 1rem;
+  cursor: pointer;
+}
