@@ -8,7 +8,11 @@ var emojiDictionary = {
   "👻": "Ghost",
   "❤️": "Love",
   "😟": "Worried",
-  "😕": "Confused"
+  "😕": "Confused",
+  "👽": "Alien",
+  "🤒": "Face with Thermometer",
+  "🥴": "Woozy Face",
+  "🥳": "Partying Face"
 };
 
 var emojiList = Object.keys(emojiDictionary);
